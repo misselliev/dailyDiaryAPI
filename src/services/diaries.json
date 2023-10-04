@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "date": "2023-10-30",
+        "mood": "ok",
+        "dayGoal": "cook dinner",
+        "weather": "sunny"
+    },
+    {
+        "id": 2,
+        "date": "2023-10-29",
+        "mood": "happy",
+        "dayGoal": "study JS",
+        "weather": "cloudy"
+    },
+    {
+        "id": 3,
+        "date": "2023-10-28",
+        "mood": "tired",
+        "dayGoal": "do yoga",
+        "weather": "rainy"
+    },
+    {
+        "id": 4,
+        "date": "2023-10-27",
+        "mood": "anxious",
+        "dayGoal": "catch up on emails",
+        "weather": "cloudy"
+    }
+]
